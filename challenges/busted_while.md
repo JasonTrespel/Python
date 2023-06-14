@@ -37,8 +37,9 @@ def main():
             print("Correct!")
 ```
 
-
-### SOLUTION
+<details>
+<summary>SOLUTION</summary>
+<br>
 
 ```python
 #!/usr/bin/env python3
@@ -73,3 +74,4 @@ def main():
 
 main()
 ```
+</details>
