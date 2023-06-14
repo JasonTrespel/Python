@@ -32,8 +32,9 @@ For this challenge, instead of writing code we'll be repairing it. The code bloc
    
 0. As you make changes to fix the script, continue to execute the script to test it. The more errors you see, the more you'll learn how to fix them! Error messages are your FRIEND.
 
-
-## SOLUTION
+<details>
+<summary>SOLUTION</summary>
+<br>
 
 ```python
 #!/usr/bin/env python3
@@ -65,3 +66,4 @@ def main():
 
 main()
 ```
+</details>
