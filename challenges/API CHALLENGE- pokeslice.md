@@ -75,8 +75,9 @@ Create a counter (games= 0, for instance). Then loop over pokeapi["game_indices"
 - Go back to part 3. If you didn't use a loop, try to solve it WITH a loop! If you did use a loop, try to solve it WITHOUT a loop!
 - That URL you returned in Part 1 that leads to a picture of your Pokemon? Use it to download the picture to `/home/student/static`! (use GOOGLE!)
 
-
-## SOLUTION
+<details>
+<summary>SOLUTION</summary>
+<br>
 
 ```python
 #!/usr/bin/env python3
@@ -112,3 +113,4 @@ def main():
 
 main()
 ```
+</details>
