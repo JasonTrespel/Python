@@ -1,5 +1,7 @@
 <img src="https://www.brightful.me/content/images/2020/08/shutterstock_686118184.jpg" alt="drawing" width="500"/>
 
+Here is the API link: https://opentdb.com/api_config.php
+
 ## Write a Flask API that does the following:
   
 1. **Make the landing page ("/") return an HTML form.**
