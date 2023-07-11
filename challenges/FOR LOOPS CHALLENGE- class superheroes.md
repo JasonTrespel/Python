@@ -32,61 +32,61 @@
 classinfo = {
     "all": [
         {
-            "name": "Leo",
+            "name": "Ariana",
             "skill level": "wondrous",
             "spirit animal": "Alpaca",
             "super power": "Structure Weakening",
         },
         {
-            "name": "Andi",
+            "name": "Lily",
             "skill level": "admirable",
             "spirit animal": "Shark",
             "super power": "Super Strength",
         },
         {
-            "name": "Bianca",
+            "name": "Eric",
             "skill level": "amazing",
             "spirit animal": "Goat",
             "super power": "Weather Control",
         },
         {
-            "name": "Charlie",
+            "name": "Exxon",
             "skill level": "astonishing",
             "spirit animal": "Banana",
             "super power": "Flight",
         },
         {
-            "name": "Cynthia",
+            "name": "Jason",
             "skill level": "awesome",
             "spirit animal": "Horse",
             "super power": "X-ray Vision",
         },
         {
-            "name": "Davi",
+            "name": "James",
             "skill level": "brilliant",
             "spirit animal": "Eagle",
             "super power": "Helicopter Propulsion",
         },
         {
-            "name": "Eric",
+            "name": "Kevin",
             "skill level": "cool",
             "spirit animal": "Rabbit",
             "super power": "Invisibility",
         },
         {
-            "name": "Jacob",
+            "name": "Michael",
             "skill level": "enjoyable",
             "spirit animal": "Water buffalo",
             "super power": "Immobility",
         },
         {
-            "name": "Jim",
+            "name": "Raylan",
             "skill level": "excellent",
             "spirit animal": "Chicken",
             "super power": "Immutability",
         },
         {
-            "name": "Paul",
+            "name": "Richard",
             "skill level": "fabulous",
             "spirit animal": "Duck",
             "super power": "Invulnerability",
@@ -143,13 +143,13 @@ classinfo = {
             "name": "Sheraz",
             "skill level": "pleasing",
             "spirit animal": "Alligator",
-            "super power": "Prehensile Tail",
+            "super power": "Sonic Voice",
         },
         {
             "name": "Sunny",
             "skill level": "remarkable",
             "spirit animal": "Alpaca",
-            "super power": "Prehensile Tongue",
+            "super power": "Hydrokinesis",
         },
     ]
 }
