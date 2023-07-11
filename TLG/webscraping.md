@@ -8,7 +8,7 @@ You do a bit of searching, and find the following website... but one problem. Th
 
 ### Procedure
 
-0. To begin make sure Beautiful Soup is installed
+1. To begin make sure Beautiful Soup is installed
 
    `student@bchd:~$` `python3 -m pip install BeautifulSoup4`
 
