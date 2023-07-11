@@ -3,7 +3,7 @@
 
 ### MAKE YOUR WAY THROUGH AS MANY CHALLENGES AS YOU CAN:
 
-0. Find your name in the data below. Write a script that prints your first name from the “JSON” data shown here.
+1. Find your name in the data below. Write a script that prints your first name from the “JSON” data shown here.
 
 0. Write a script that outputs **ONE** of the following (fill in the blank!):
 
