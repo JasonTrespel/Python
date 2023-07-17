@@ -128,18 +128,6 @@ classinfo = {
             "super power": "Needle Projection",
         },
         {
-            "name": "Lawrence",
-            "skill level": "phenomenal",
-            "spirit animal": "Leopard",
-            "super power": "Organic Constructs",
-        },
-        {
-            "name": "Sharry",
-            "skill level": "pleasant",
-            "spirit animal": "Albatross",
-            "super power": "Prehensile Hair",
-        },
-        {
             "name": "Sheraz",
             "skill level": "pleasing",
             "spirit animal": "Alligator",
