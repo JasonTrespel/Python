@@ -2,7 +2,7 @@
 
 <img src="https://public-library.safetyculture.io/media/template_e99ce9c6cb594c1d9ba090451e816a20/6f0e7911-0e46-4174-94a4-60828856035c" alt="drawing" width="400"/>
 
-### Below is a solution to our [Flask trivia challenge](https://github.com/csfeeser/Python/blob/master/challenges/FLASK_challenge.md) from yesterday...
+### Below is a solution to our [Flask trivia challenge](https://github.com/csfeeser/Python/blob/master/challenges/FLASK_challenge.md)...
 ### HOWEVER, it is broken! VERY BROKEN! Fix it (no need to improve it)!
 
 You can test the functionality by either opening the page in `aux1` and filling out the form, OR you can use curl:  
@@ -58,8 +58,8 @@ def login():
 if __name__ == "__main__":
    app.run()
 ```
-
-## SOLUTION
+<details>
+<summary>SOLUTION</summary>
 
 ```python
 #!/usr/bin/python3
@@ -117,3 +117,4 @@ def login():
 if __name__ == "__main__":
    app.run(host="0.0.0.0", port=2224)
 ```
+</details>
