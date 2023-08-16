@@ -43,7 +43,7 @@ pokeapi["sprites"]["front_default"]
 <details>
 <summary>What should I be looping over?</summary>
     <br>
-for x in pokeapi["moves']:
+for x in pokeapi["moves"]:
 </details>
 
 <details>
