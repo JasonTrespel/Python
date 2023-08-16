@@ -27,7 +27,7 @@ View the output from that URL here! https://pokeapi.co/api/v2/pokemon/bulbasaur
 
 ### Part 1- Slicing (NO for loop!)
 
-- Find the `"sprites"` key. Print the URL to "front_default", which is a link to an image of your Pokemon!
+- Find the `"sprites"` key. Print the key to "front_default", which is a link to an image of your Pokemon! (The slice should include "sprites" and "front_default".
 
 <details>
 <summary>SLICE SOLUTION</summary>
