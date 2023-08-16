@@ -15,7 +15,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-### NOTE FROM CHAD: There is nothing wrong with the HTML
+### NOTE: There is nothing wrong with the HTML
 html= '''<style>
 body {
   background-color: black;
@@ -71,7 +71,7 @@ from flask import redirect
 
 app = Flask(__name__)
 
-### NOTE FROM CHAD: There is nothing wrong with the HTML
+### NOTE: There is nothing wrong with the HTML
 html= '''<style>
 body {
   background-color: black;
