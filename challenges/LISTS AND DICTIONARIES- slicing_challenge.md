@@ -35,10 +35,11 @@
     ```
 ![Image description](https://github.com/csfeeser/Python/blob/master/eyes.jpg?raw=true)
 
+<details>
+<summary>SOLUTION</summary>
+<br>
 
-## SOLUTION
-
-```
+```python
 challenge= ["science", "turbo", ["goggles", "eyes"], "nothing"]
 
 a= challenge[2][1]
@@ -64,3 +65,4 @@ c= nightmare[0]["d"]
 
 print(f"My {a}! The {b} do {c}!")
 ```
+</deatils>
